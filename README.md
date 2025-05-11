@@ -18,12 +18,11 @@ organizational capabilities.
 processes.
 
 ## Projects
-### Dig Dug: Dig Harder
-[Git](https://github.com/AMH200264/Dig-Dug-Dig-Harder/tree/main)
 
-A project for an intro to C# course, Dig Dug: Dig Harder is a spin on the classic arcade title. Developed with a XAML framework and compatible with PC and Xbox One consoles, Dig Dug: Dig Harder features unique takes on gameplay, a custom gamemode, original sprites, and uniquely composed soundtracks.
+### [Analysis of Modern Day Video Game Optimization and Reliance on Advancing Hardware](https://www.mdpi.com/1424-8220/22/11/4240)
 
-### Analysis of Modern Day Video Game Optimization and Reliance on Advancing Hardware
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-placeholder
+•Leveraged SQL and DataGrip to evaluate hardware requirements and performance metrics across 50+ AAA titles, identifying a 159% average increase\
+•Created a relational database tracking 70+ GPUs (2012–2025), including pricing, release years, and performance benchmarks to analyze hardware evolution.\
+•Calculated 377% performance gaps between entry-level and high-end GPUs, exemplifying how modern games lack optimization for advancing hardware\
+•Developed SQL scripts to compute percentage changes, averages, and trends across 100+ data points, streamlining analysis of game optimization patterns.\
+•Designed charts to compare FPS stability and hardware demands, revealing critical thresholds\

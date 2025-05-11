@@ -6,7 +6,7 @@
 - B.S., Computer and Information Science | The University of Michigan - Dearborn (_May 2026_)								       		
 
 ## Work Experience
-** In-Store Shopper @ Whole Foods Market Group Incorporated (_March 2022 - August 2022_)**
+In-Store Shopper @ Whole Foods Market Group Incorporated (_March 2022 - August 2022_)
 - Analyzed and fulfilled 50+ customer orders daily with 98% accuracy, leveraging data analysis for
 workflow improvements.
 - Utilized the in-store ordering system to accurately locate items, ensuring efficient retrieval.

@@ -19,7 +19,7 @@ processes.
 
 ## Projects
 
-### [Analysis of Modern Day Video Game Optimization and Reliance on Advancing Hardware](https://www.mdpi.com/1424-8220/22/11/4240)
+### [Analysis of Modern Day Video Game Optimization and Reliance on Advancing Hardware](https://amh200264.github.io/Game-Optimization-Study/)
 
 •Leveraged SQL and DataGrip to evaluate hardware requirements and performance metrics across 50+ AAA titles, identifying a 159% average increase\
 •Created a relational database tracking 70+ GPUs (2012–2025), including pricing, release years, and performance benchmarks to analyze hardware evolution.\

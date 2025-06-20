@@ -4,13 +4,13 @@
 - B.S., Computer and Information Science | The University of Michigan - Dearborn (_May 2026_)								       		
 
 ## Work Experience
-Analyzed and retrieved over **10,000** entries to obtain data relevant to store operations.
+Analyzed and retrieved over **10,000** entries to obtain data relevant to store operations.\
 •Utilized SQL to clean and extract insights from multiple databases, revealing an **average increase of 48** items per order
-monthly.
+monthly.\
 •Optimized order database to increase ease of use, resulting in a **customer satisfaction increase by 32%** with precise order
-tracking.
+tracking.\
 •Leveraged Microsoft Excel and Tableau to create dashboards to track and analyze order trends, **optimizing inventory
-management processes by 49%.**
+management processes by 49%.**\
 
 ## Projects
 
